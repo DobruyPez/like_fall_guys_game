@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\testGameForLesta\\testProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\smoothmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smoothmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\smothrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smothrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|d:\\testgameforlesta\\testproject\\assets\\scripts\\smoothrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smoothrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\windy31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windy31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\randomobjectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\randomobjectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\endscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\destroyifbelowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyifbelowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|D:\\testGameForLesta\\testProject\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB70571-74D1-B8A9-A4E3-CC4A9997D5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmoothRotate.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\SmoothRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothRotate.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\SmoothRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmoothRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:41:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Windy31.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\Windy31.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Windy31.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\Windy31.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Windy31.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:53:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmothRotate.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\SmothRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmothRotate.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\SmothRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmothRotate.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:02:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:26:54.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomObjectSpawner.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\RandomObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RandomObjectSpawner.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\RandomObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RandomObjectSpawner.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:17:01.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndScreenManager.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\EndScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndScreenManager.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\EndScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndScreenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:38:33.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestroyIfBelowY.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\DestroyIfBelowY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyIfBelowY.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\DestroyIfBelowY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyIfBelowY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:41:53.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmoothMove.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\SmoothMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothMove.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\SmoothMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmoothMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:21:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:17:09.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mine.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\Mine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mine.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\Mine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:57:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\testGameForLesta\\testProject\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:02:00.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
